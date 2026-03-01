@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
+  </Folder>
+  <Project Path="AcaApp.RazorWeb/AcaApp.RazorWeb.csproj" />
+  <Project Path="AcaApp.WebApi/AcaApp.WebApi.csproj" />
+</Solution>
